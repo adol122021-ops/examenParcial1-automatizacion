@@ -1,0 +1,1 @@
+1-git clone es para copiar un repositorio 2- git status para ver mostrar los archivos y estado en que se encuentran 3- git add para achadir cambios 4- git commit para guardar los cambios y 5- git push para enviar los commits creados
